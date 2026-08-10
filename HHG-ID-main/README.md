@@ -74,42 +74,6 @@ The production build will be in the `dist` folder.
 └── vite.config.js
 ```
 
-## 🌐 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Click "New Project" and import your repository
-4. Vercel will auto-detect Vite and configure build settings
-5. Click "Deploy"
-
-Your site will be live at `https://your-project.vercel.app`
-
-### Deploy to Netlify
-
-1. Push your code to GitHub
-2. Go to [netlify.com](https://netlify.com)
-3. Click "New site from Git"
-4. Select your repository
-5. Build settings:
-   - Build command: `npm run build`
-   - Publish directory: `dist`
-6. Click "Deploy site"
-
-### Deploy to GitHub Pages
-
-```bash
-# Install gh-pages
-npm install -D gh-pages
-
-# Add to package.json scripts:
-# "deploy": "npm run build && gh-pages -d dist"
-
-# Deploy
-npm run deploy
-```
-
 ## 🔧 Configuration
 
 ### Generating the OG Preview Image
@@ -158,11 +122,6 @@ After deploying, update these files with your actual URL:
 ## 📄 License
 
 MIT License - feel free to use this for your own events!
-
-## 🙏 Acknowledgments
-
-- Built for [Hacker House Goa 2026](https://hackerhouse.goa)
-- Design inspired by terminal/CLI aesthetics
 - [@247pmstudio](https://twitter.com/247pmstudio)
 
 ---
