@@ -1,7 +1,5 @@
 # HH Goa 2026 - Builder ID Card Generator
 
-![HH Goa 2026](public/og-preview.png)
-
 A web tool to generate personalized Builder ID Cards for Hacker House Goa 2026. Upload your photo, customize your details, and share your builder identity on social media.
 
 ## ✨ Features
