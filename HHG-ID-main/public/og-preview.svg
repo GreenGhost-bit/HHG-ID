@@ -1,0 +1,64 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0b1a13"/>
+  
+  <!-- Grid pattern -->
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(41, 89, 64, 0.3)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  
+  <!-- Main content area -->
+  <rect x="50" y="50" width="1100" height="530" rx="8" fill="#11281d" stroke="#295940" stroke-width="2"/>
+  
+  <!-- Header -->
+  <text x="600" y="130" text-anchor="middle" font-family="monospace" font-size="48" font-weight="bold" fill="#e0f2e9">HACKER HOUSE GOA</text>
+  <text x="600" y="175" text-anchor="middle" font-family="monospace" font-size="24" fill="#f5cf47">HH26 · BUILDER ACCESS · GOA</text>
+  
+  <!-- Yellow divider -->
+  <rect x="100" y="200" width="1000" height="4" fill="#f5cf47"/>
+  
+  <!-- Terminal window -->
+  <rect x="100" y="230" width="650" height="300" rx="4" fill="#0b1a13" stroke="#f5cf47" stroke-width="2"/>
+  
+  <!-- Terminal header -->
+  <rect x="100" y="230" width="650" height="35" fill="#0b1a13"/>
+  <text x="120" y="255" font-family="monospace" font-size="14" fill="#f5cf47">HH26://ACCESS_TERMINAL</text>
+  <circle cx="710" cy="248" r="6" fill="#f5cf47"/>
+  <circle cx="690" cy="248" r="6" fill="#f5cf47"/>
+  <circle cx="670" cy="248" r="6" fill="#f5cf47"/>
+  <line x1="100" y1="265" x2="750" y2="265" stroke="#f5cf47" stroke-width="1"/>
+  
+  <!-- Terminal content -->
+  <text x="120" y="295" font-family="monospace" font-size="14" fill="#e0f2e9">$ sudo ./enter_hacker_house</text>
+  <text x="120" y="320" font-family="monospace" font-size="14" fill="#a3ccb6">[sudo] password for builder:</text>
+  <text x="120" y="345" font-family="monospace" font-size="14" fill="#a3ccb6">***************</text>
+  <text x="120" y="380" font-family="monospace" font-size="14" fill="#4ade80">[+] Identity verified</text>
+  <text x="120" y="405" font-family="monospace" font-size="14" fill="#4ade80">[+] Builder detected</text>
+  <text x="120" y="430" font-family="monospace" font-size="14" fill="#4ade80">[+] Goa coordinates locked</text>
+  <text x="120" y="470" font-family="monospace" font-size="20" font-weight="bold" fill="#f5cf47">ACCESS GRANTED ✔</text>
+  <text x="120" y="500" font-family="monospace" font-size="16" font-weight="bold" fill="#e0f2e9">WELCOME, BUILDER.</text>
+  
+  <!-- Profile section -->
+  <rect x="780" y="230" width="370" height="300" rx="4" fill="#0b1a13" stroke="#295940" stroke-width="1"/>
+  <text x="965" y="265" text-anchor="middle" font-family="monospace" font-size="14" fill="#f5cf47">BUILDER PROFILE SCAN</text>
+  
+  <!-- Profile placeholder -->
+  <rect x="870" y="285" width="190" height="140" fill="none" stroke="#f5cf47" stroke-width="2" stroke-dasharray="8,4"/>
+  <circle cx="965" cy="340" r="25" fill="none" stroke="#f5cf47" stroke-width="2" opacity="0.5"/>
+  <path d="M 930 400 Q 930 370 965 370 Q 1000 370 1000 400" fill="none" stroke="#f5cf47" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Profile fields -->
+  <text x="800" y="455" font-family="monospace" font-size="14" fill="#a3ccb6">NAME:</text>
+  <text x="870" y="455" font-family="monospace" font-size="14" fill="#e0f2e9">YOUR_NAME</text>
+  <text x="800" y="480" font-family="monospace" font-size="14" fill="#a3ccb6">ROLE:</text>
+  <text x="870" y="480" font-family="monospace" font-size="14" fill="#e0f2e9">YOUR_ROLE</text>
+  <text x="800" y="505" font-family="monospace" font-size="14" fill="#a3ccb6">STATUS:</text>
+  <text x="870" y="505" font-family="monospace" font-size="14" font-weight="bold" fill="#f5cf47">VERIFIED ✔</text>
+  
+  <!-- Footer -->
+  <rect x="100" y="550" width="1000" height="45" rx="4" fill="#f5cf47"/>
+  <text x="600" y="580" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#0b1a13">BUILD → COLLAB → SHIP | 28-31 OCT 2026</text>
+</svg>

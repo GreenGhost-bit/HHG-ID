@@ -1,0 +1,42 @@
+{
+  "name": "hhgoa2026-id",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Builder ID Card Generator for Hacker House Goa 2026",
+  "author": "HH Goa 2026",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/hhgoa2026-id"
+  },
+  "keywords": [
+    "hacker-house",
+    "goa",
+    "id-card",
+    "generator",
+    "react",
+    "vite"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "html-to-image": "^1.11.13",
+    "html2canvas": "^1.4.1",
+    "lucide-react": "^1.31.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-easy-crop": "^6.2.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.4",
+    "oxlint": "^1.75.0",
+    "vite": "^8.2.0"
+  }
+}
