@@ -6,6 +6,9 @@
   "description": "Builder ID Card Generator for Hacker House Goa 2026",
   "author": "HH Goa 2026",
   "license": "MIT",
+  "engines": {
+    "node": ">=20.12.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/yourusername/hhgoa2026-id"
